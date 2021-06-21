@@ -1,3 +1,3 @@
-update table publisher
+update publisher
 set id='Prentice Hall',name='Prentice Hall'
-where country='India';
+where id='PHI';
